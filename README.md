@@ -12,8 +12,8 @@ I’m Alaa Allah, a teaching assistant at FCIS Mansoura University and game deve
 ![](https://nirzak-streak-stats.vercel.app/?user=AlaaHelal&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaHelal&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlaaHelal&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AlaaHelal&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlaaHelal&icon=0&color=0)](https://visitcount.itsvg.in)
