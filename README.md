@@ -55,6 +55,7 @@ Building games, teaching code and designing how people learn. I do both, and the
 ## 📊 GitHub Stats
 
 ![Alaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlaaHelal&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaHelal&theme=default_repocard&hide_border=true&layout=compact)
 
 ---
