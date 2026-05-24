@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Alaa Allah, a teaching assistant at FCIS Mansoura University and game developer passionate about building<br> interactive experiences and sharing knowledge. I love learning new technologies and helping others grow<br> along the way
+I’m Alaa Allah, Unity & C# Game Developer | CS Instructor | Instructional Designer, building 2D & 3D games and interactive experiences.
 
 
 ## 🌐 Socials:
